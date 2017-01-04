@@ -1,3 +1,37 @@
 h1{
-  color: brown;
+  color: #AA2003;
+  text-align: center;
+  font-size: 60px;
+  font-style: italic;
+  font-family: fantasy;
+
+}
+
+p{
+  color: blue;
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+}
+
+img{
+  height: 20%;
+  display: block;
+  margin: auto;
+  width: 50%;
+  border: 20px;
+  border-radius: 20%;
+}
+
+body{
+  background-color: sandybrown;
+  background-image: url("img/background-island.jpeg");
+}
+
+a{
+  color: #AA2003;
+  font-size: 35px;
+  font-style: oblique;
+  font-family: fantasy;
+  align-items: center;
 }
